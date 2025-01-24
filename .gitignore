@@ -1,0 +1,11 @@
+# Virtual environments
+env/
+venv/
+.idea/
+
+# IDE config files
+*.pyc
+__pycache__/
+
+# SQLite database file
+epic_events.db
